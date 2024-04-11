@@ -1,0 +1,10 @@
+cd ../
+show dbs
+show databases
+show database
+show databases
+show collections
+db.show
+db.show()
+db.list
+db.show
